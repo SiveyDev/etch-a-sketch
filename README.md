@@ -1,0 +1,1 @@
+A simple mouse drawing app to demonstrate DOM manipulation skills.
